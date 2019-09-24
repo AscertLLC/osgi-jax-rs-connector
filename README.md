@@ -1,4 +1,7 @@
-# OSGi - JAX-RS Connector 5.3.1 - Forked from hstaudacher
+# OSGi - JAX-RS Connector 5.3.1 - Forked from MEDEVIT
+
+*MEDEVIT seems one of the most up to date forks. It's not entirely convenient for standalone use though for non Eclipse users. This fork is an attempt to resolve that by combining elements from OpenNMS. Hopefully the end result will be usable via Jitpack publishing, making for easy access to commits as published releases*
+
 [![Build Status](https://travis-ci.org/MEDEVIT/osgi-jax-rs-connector.png)](https://travis-ci.org/MEDEVIT/osgi-jax-rs-connector) [![Maven Status](https://maven-badges.herokuapp.com/maven-central/com.eclipsesource.jaxrs/publisher/badge.png)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.eclipsesource.jaxrs%22) [![License](http://img.shields.io/badge/license-EPL-blue.svg)](http://www.eclipse.org/legal/epl-v10.html) [![Gitter](http://img.shields.io/badge/Gitter-join-yellow.svg)](https://gitter.im/hstaudacher/osgi-jax-rs-connector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![](http://download.eclipsesource.com/~hstaudacher/connector.png)
